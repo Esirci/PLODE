@@ -42,7 +42,7 @@ To download and run the program correctly:
   
   5.3. write a path with using node names.
   
-  5.4. the single path verilog file as named ".v" on a same directory.
+  5.4. choose a full path for the extracted verilog file for single path 
   
 
 
