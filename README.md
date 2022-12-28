@@ -29,8 +29,8 @@ To download and run the program correctly:
     
     select QT5 & QTCharts
 
-3. Once all downloaded, it can be opened on QT Creator by opening the .pro file with QT Creator.
-4. After building, PLODE GUI is ready to go.
+3. Once all downloaded, it can be opened on QT Creator by opening the .pro file with QT Creator. RUn as a user.
+4. After building, PLODE GUI is ready to go. 
 
 5. How to work for a single path extraction?
 
